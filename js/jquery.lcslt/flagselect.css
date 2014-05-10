@@ -1,0 +1,12 @@
+.lclst-selector-wrapper {
+    text-align: right;
+    margin: 0.15em 1em 0.25em;
+}
+.lclst-selector {
+    height: 2em !important;
+    padding: 0.25em;
+}
+.lclst-selector img {
+    width: 2em;
+    margin-right: 1em;
+}
